@@ -43,6 +43,11 @@
 	* [Hypergraph patterns and collaboration structure](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2023.1301994/full)
 	* [How a minority can win: Unrepresentative outcomes in a simple model of voter turnout](https://link.aps.org/accepted/10.1103/PhysRevE.104.054307)
 	* [Hipsters on networks: How a minority group of individuals can lead to an antiestablishment majority](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.99.022313)
+* Luca Rossi
+	* [Leveraging VLLMs for Visual Clustering: Image-to-text mapping shows increased semantic capabilities and interpretability](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vv1gFf0AAAAJ&sortby=pubdate&citation_for_view=Vv1gFf0AAAAJ:7H_MAutzIkAC)
+	* [The Problems of LLM-generated Data in Social Science Research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Vv1gFf0AAAAJ&sortby=pubdate&citation_for_view=Vv1gFf0AAAAJ:jU7OWUQzBzMC)
+	* [How minimizing conflicts could lead to polarization on social media: An agent-based model investigation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263184)
+	* [The Impact of Projection and Backboning on Network Topologies](https://arxiv.org/pdf/1906.09081)
 
 ## My Favorite Projects
 * StitchGraph
