@@ -5,6 +5,7 @@
 * Machine Learning / Deep Learning
 	* GNN
 	* Computer Vision
+	* Recommender Systems
 * Geospatial Data Science
 * NLP
 
@@ -15,12 +16,13 @@
 	* Algorithmic Echo Chambers and Bias
 	* Trends and their lifespan
 	* Influence of influencers - How important are these to platforms?
-* Politiken
+* Politiken-like
 	* Media coverage and social media activity - What are the differences between people's interests and what actually gets covered?
 	* Generative AI in traditional news
-* How commuting impacts people's mental health - Public transport sucks; is this reflected in people's general happiness?
+* Individual and Collective Mobility
+	* How commuting impacts people's mental health - Public transport sucks; is this reflected in people's general happiness?
+	* HyggeBike 2.0
 * Music something?
-* Dynamics of Online Dating / Ethical Online Dating
 
 ## Cool Projects From Supervisors
 * Luca Aiello
