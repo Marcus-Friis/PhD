@@ -12,17 +12,25 @@
 ## Topics
 * TikTok and other social media
 	* Quantifying what the heck is going on - What do people post?
+		* How is this different between platforms?
 	* Spread of misinformation on TikTok 
 	* Algorithmic Echo Chambers and Bias
 	* Trends and their lifespan
 	* Influence of influencers - How important are these to platforms?
+		* Structural role of users in social networks
+	* AI content's influence on social media
 * Politiken-like
 	* Media coverage and social media activity - What are the differences between people's interests and what actually gets covered?
 	* Generative AI in traditional news
+	* Negativity bias in news coverage?
 * Individual and Collective Mobility
 	* How commuting impacts people's mental health - Public transport sucks; is this reflected in people's general happiness?
 	* HyggeBike 2.0
+	* CycleCV 2.0
+* Algorithmic Bias and Fairness
+	* LLMs behavior based on demographics: Does ChatGPT treat you differently based on sex, race etc.?
 * Music something?
+* More ML heavy stuff?
 
 ## Cool Projects From Supervisors
 * Luca Aiello
@@ -33,7 +41,7 @@
 	* [Sensing trending topics in Twitter](https://www.lajello.com/papers/tmm13.pdf)
 	* [The Shortest Path to Happiness: Recommending Beautiful, Quiet, and Happy Routes in the City](https://arxiv.org/pdf/1407.1031)
 	* [Causal Modeling of Climate Activism on Reddit](https://arxiv.org/pdf/2410.10562)
-	* [Narratives of Collective Action in YouTube’s Discourse on Veganism](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FIX-7hcAAAAJ&sortby=pubdate&citation_for_view=FIX-7hcAAAAJ:rzmi0EmCOGEC)
+	* [Narratives of Collective Action in YouTube's Discourse on Veganism](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FIX-7hcAAAAJ&sortby=pubdate&citation_for_view=FIX-7hcAAAAJ:rzmi0EmCOGEC)
 * Vedran Sekara
 	* [Measuring large-scale social networks with high resolution](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0095978&type=printable)
 	* [Evidence for a conserved quantity in human mobility](https://arxiv.org/pdf/1609.03526)
