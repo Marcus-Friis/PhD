@@ -63,3 +63,27 @@
 * StitchGraph
 * HyggeBike
 * CycleCV
+
+## Notes
+Write abstract for project proposal
+Special process for ddsa but is good idea
+not tiktok - Visual / video social media
+Network dimension is interesting and limited in research
+	
+	Project proposal
+	4 pages
+	Methods - Data- Literature review
+
+
+
+Problem: Video platforms and networks of videos
+Angles: Polarization or Spread of Trends
+	For now - 0.5 - 1 page explaininig what I want to do
+	Start with problem
+	Connect with video social media
+	Video social media as networks
+		Hard project but I am very smart - I have idea
+	Provide ideas for how to do stuff
+		Ex Create TikTok user graphs (duets, stitches, etc) 
+	
+	
