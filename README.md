@@ -37,6 +37,25 @@
 * The framework opens up for future research into more dynamics of the platforms like polarization, radicalization, algorithmic echochambers etc.
 * This is important as these are the largest platforms that the future generation uses, and it aligns with regulations like DSA
 
+#### Feedback
+
+tilde:
+* read title (more intro presentation)
+* constrain answer
+
+christian:
+* focus more on outcome (on slide)
+* "what do you get out of the model?"
+* Beginning sounds about trump
+* Think about timespan and what to do withink first months, year, 
+* Suppose I have blackbox model - What then?
+* Anonymization - How ?
+* Connect the start to the end - How will my project solve ___?
+	
+Jonas:
+* Look at evaluation criteria
+* Think about questions - have a sentence prepared about everything
+
 #### Old script
 
 Disinformation is a big societal issue, influencing democratic processes, people's knowledge of health etc. Coupled with an increasingly unstable world order, disinformation has never been so prevalent or easily manifactured. This is further exacerbated by tools like generative ai, with ai content flooding social media platforms. Examples of these are seen very recently. Trump has been posting ai images of himself as the pope on truth social. Or back in his presendential campaign, followers posted ai images of trump with black supporters with the intent on misleading others. Outside of trump, other democratic processes have been interferred with as well. In the recent romanian election, calin georgescu has been accussed of having a disinformation campaign on TikTok, leading to him gaining much greater followership. 
