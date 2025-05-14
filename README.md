@@ -7,6 +7,38 @@
 
 ### Script
 
+##### Why audio visual disinformation (1 min)
+
+* In Trump's presendential campaign, supporters spread fake images of trump receiving support from black voters. 
+* Despite easy debunking, it highlights how visual content can be easily created and spread with the intent to mislead.
+* Other notable example is from trump's truth social, with him as the pope
+* Romanian election subject to TikTok campaigns, leading to calin georgescu gaining large support
+* These cases highlight how information and mis/disinormation are increasingly audio visual, spread through modern platforms algorithims, and have huge reach
+* This aligns with the paradigm shift in social media consumption, wiht the popularity of TikTok and Instagram embodying the shift towards video platforms (particularly heavily algorithmically curated) 
+
+##### The specific problem (2 min)
+
+* Disinformation and modern content in general is audio visual
+* Previously applied methods (on textual platforms e.g. facebook, twitter) are insufficient for contemporary disinformation
+* We need to combine methods from computer vision, audio processing and natural language processing to analyze the content of videos
+* Beyond content analysis methods, videos are highly referential and intertextual (hidden meaning through audio, trends, slang)
+* To fully understand content, we need content relationships, we cannot analyze it in isolation
+
+##### Methodological innovation (1.5 min)
+
+* Model contemporary social media as networks using a temporal multilayer model
+* Explicit interactions and implicit content relationships
+* Model on both a content level but also on a platform level - heterogenous graph with multiple node objects
+
+##### Outcome and impact (0.5 min)
+
+* With this graph model, we can model disinformation in isolation and context
+* We can investigate the profileration of disinformation - looking into which linkages are central to its propagation
+* The framework opens up for future research into more dynamics of the platforms like polarization, radicalization, algorithmic echochambers etc.
+* This is important as these are the largest platforms that the future generation uses, and it aligns with regulations like DSA
+
+#### Old script
+
 Disinformation is a big societal issue, influencing democratic processes, people's knowledge of health etc. Coupled with an increasingly unstable world order, disinformation has never been so prevalent or easily manifactured. This is further exacerbated by tools like generative ai, with ai content flooding social media platforms. Examples of these are seen very recently. Trump has been posting ai images of himself as the pope on truth social. Or back in his presendential campaign, followers posted ai images of trump with black supporters with the intent on misleading others. Outside of trump, other democratic processes have been interferred with as well. In the recent romanian election, calin georgescu has been accussed of having a disinformation campaign on TikTok, leading to him gaining much greater followership. 
 
 This last example is particularly interesting, as it symbolizes the paradigm shift social media has been subject to. Historically, textual platforms like twitter or facebook have been the largest platforms. Now, short form video platforms have taken over, with platforms like TikTok, Instagram and YouTube (Shorts) having huge user bases and scoring the highest in monthly engage time. The shift in medium brings along its own issue, both on a governance level and on a technical level, and it necessitates innovation in analytical approaches to understanding social media. Textual methods are no longer sufficient, as platforms are increasingly visual first. Furthermore, culturally, shortform video platforms are highly referential and intertextual in nature. A lot of content participates in trends, reacts to other content, reuses audio, or follows a narrative format. Furthermore, content can be layered with messages, requiring knowledge of the surrounding ecosystem to fully understand contet, underscoring the need for a relational perspective on content. 
