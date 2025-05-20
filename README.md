@@ -11,10 +11,10 @@
 
 * In Trump's presendential campaign, supporters spread fake images of trump receiving support from black voters. 
 * Despite easy debunking, it highlights how visual content can be easily created and spread with the intent to mislead.
-* Other notable example is from trump's truth social, with him as the pope
-* Romanian election subject to TikTok campaigns, leading to calin georgescu gaining large support
+* Other notable examples are Romanian election subject to TikTok campaigns, leading to calin georgescu gaining large support, and TikTok approving allegedly disinformation ads for the irish election
 * These cases highlight how information and mis/disinormation are increasingly audio visual, spread through modern platforms algorithims, and have huge reach
 * This aligns with the paradigm shift in social media consumption, wiht the popularity of TikTok and Instagram embodying the shift towards video platforms (particularly heavily algorithmically curated) 
+* It is underscored by Meta dropping their fact checking program, leaving platforms vulnerable to mis and disinformation
 
 ##### The specific problem (2 min)
 
