@@ -22,6 +22,7 @@
 * Previously applied methods (on textual platforms e.g. facebook, twitter) are insufficient for contemporary disinformation
 * We need to combine methods from computer vision, audio processing and natural language processing to analyze the content of videos
 * Beyond content analysis methods, videos are highly referential and intertextual (hidden meaning through audio, trends, slang)
+* The intertextuality is encouraged by the platforms, with social features baked directly into their apps and affordances
 * To fully understand content, we need content relationships, we cannot analyze it in isolation
 
 ##### Methodological innovation (1.5 min)
