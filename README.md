@@ -79,3 +79,7 @@ Developing this framework is the bulk of this project, and it presents many chal
 	* [Romanian voters again turn to TikTok for guidance in rerun of annulled election](https://www.reuters.com/world/europe/romanian-voters-again-turn-tiktok-guidance-rerun-annulled-election-2025-05-01/)
 		> TikTok says it has formed a task force to ensure effective moderation of content and has launched a media literacy campaign to help users spot disinformation. In January, the company said it had blocked more than 116,000 spam accounts from being created in Romania during the second half of December.
 	* [TikTok: Protecting the integrity of TikTok during the Romanian elections](https://newsroom.tiktok.com/en-eu/protecting-the-integrity-of-tiktok-during-the-romanian-elections)
+
+
+
+https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html
